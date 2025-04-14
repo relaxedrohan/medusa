@@ -1,5 +1,14 @@
 # @medusajs/index
 
+## 2.7.1
+
+### Patch Changes
+
+- [#12183](https://github.com/medusajs/medusa/pull/12183) [`4ea1a2e09fc220555166c9bb013c0e11c99b4235`](https://github.com/medusajs/medusa/commit/4ea1a2e09fc220555166c9bb013c0e11c99b4235) Thanks [@adrien2p](https://github.com/adrien2p)! - fix(index): Default schema typings
+
+- Updated dependencies []:
+  - @medusajs/framework@2.7.1
+
 ## 2.7.0
 
 ### Patch Changes

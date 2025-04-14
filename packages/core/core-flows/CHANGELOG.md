@@ -1,5 +1,14 @@
 # @medusajs/core-flows
 
+## 2.7.1
+
+### Patch Changes
+
+- [#12115](https://github.com/medusajs/medusa/pull/12115) [`413a0da26c7e9acffe9cc087fd77500efc76191a`](https://github.com/medusajs/medusa/commit/413a0da26c7e9acffe9cc087fd77500efc76191a) Thanks [@fPolic](https://github.com/fPolic)! - fix(core-flows): draft order reservations + emit order placedevent on convert
+
+- Updated dependencies []:
+  - @medusajs/framework@2.7.1
+
 ## 2.7.0
 
 ### Minor Changes

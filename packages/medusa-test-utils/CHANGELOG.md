@@ -1,5 +1,13 @@
 # Change Log
 
+## 2.7.1
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @medusajs/medusa@2.7.1
+  - @medusajs/framework@2.7.1
+
 ## 2.7.0
 
 ### Patch Changes

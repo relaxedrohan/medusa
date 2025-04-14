@@ -1,5 +1,55 @@
 # Change Log
 
+## 2.7.1
+
+### Patch Changes
+
+- Updated dependencies [[`413a0da26c7e9acffe9cc087fd77500efc76191a`](https://github.com/medusajs/medusa/commit/413a0da26c7e9acffe9cc087fd77500efc76191a), [`4ea1a2e09fc220555166c9bb013c0e11c99b4235`](https://github.com/medusajs/medusa/commit/4ea1a2e09fc220555166c9bb013c0e11c99b4235)]:
+  - @medusajs/core-flows@2.7.1
+  - @medusajs/index@2.7.1
+  - @medusajs/admin-bundler@2.7.1
+  - @medusajs/framework@2.7.1
+  - @medusajs/api-key@2.7.1
+  - @medusajs/auth@2.7.1
+  - @medusajs/cache-inmemory@2.7.1
+  - @medusajs/cache-redis@2.7.1
+  - @medusajs/cart@2.7.1
+  - @medusajs/currency@2.7.1
+  - @medusajs/customer@2.7.1
+  - @medusajs/event-bus-local@2.7.1
+  - @medusajs/event-bus-redis@2.7.1
+  - @medusajs/file@2.7.1
+  - @medusajs/fulfillment@2.7.1
+  - @medusajs/inventory@2.7.1
+  - @medusajs/link-modules@2.7.1
+  - @medusajs/locking@2.7.1
+  - @medusajs/notification@2.7.1
+  - @medusajs/order@2.7.1
+  - @medusajs/payment@2.7.1
+  - @medusajs/pricing@2.7.1
+  - @medusajs/product@2.7.1
+  - @medusajs/promotion@2.7.1
+  - @medusajs/auth-emailpass@2.7.1
+  - @medusajs/auth-github@2.7.1
+  - @medusajs/auth-google@2.7.1
+  - @medusajs/file-local@2.7.1
+  - @medusajs/file-s3@2.7.1
+  - @medusajs/fulfillment-manual@2.7.1
+  - @medusajs/locking-postgres@2.7.1
+  - @medusajs/locking-redis@2.7.1
+  - @medusajs/notification-local@2.7.1
+  - @medusajs/notification-sendgrid@2.7.1
+  - @medusajs/payment-stripe@2.7.1
+  - @medusajs/region@2.7.1
+  - @medusajs/sales-channel@2.7.1
+  - @medusajs/stock-location@2.7.1
+  - @medusajs/store@2.7.1
+  - @medusajs/tax@2.7.1
+  - @medusajs/user@2.7.1
+  - @medusajs/workflow-engine-inmemory@2.7.1
+  - @medusajs/workflow-engine-redis@2.7.1
+  - @medusajs/telemetry@2.7.1
+
 ## 2.7.0
 
 ### Patch Changes

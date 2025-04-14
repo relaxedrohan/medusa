@@ -1,5 +1,12 @@
 # @medusajs/workflow-engine-inmemory
 
+## 2.7.1
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @medusajs/framework@2.7.1
+
 ## 2.7.0
 
 ### Patch Changes

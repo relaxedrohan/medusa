@@ -1,5 +1,11 @@
 # @medusajs/types
 
+## 2.7.1
+
+### Patch Changes
+
+- [#12160](https://github.com/medusajs/medusa/pull/12160) [`1f73281ab88c064404ecf7cc9dd0977dfd369723`](https://github.com/medusajs/medusa/commit/1f73281ab88c064404ecf7cc9dd0977dfd369723) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(types): fix type of application_method_type filter
+
 ## 2.7.0
 
 ### Patch Changes
